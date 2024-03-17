@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century_timer", "Century_timer\Century_timer.csproj", "{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release_No_Survival|Any CPU = Release_No_Survival|Any CPU
+		Release_No_Survival|x64 = Release_No_Survival|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Debug|x64.ActiveCfg = Debug|x64
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Debug|x64.Build.0 = Debug|x64
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release_No_Survival|Any CPU.ActiveCfg = Release_No_Survival|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release_No_Survival|Any CPU.Build.0 = Release_No_Survival|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release_No_Survival|x64.ActiveCfg = Release_No_Survival|x64
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release_No_Survival|x64.Build.0 = Release_No_Survival|x64
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release|x64.ActiveCfg = Release|x64
+		{0FD126ED-F65E-4BE5-AEAA-BF8F9946839C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB02E5E2-190B-4665-938A-F0D765470730}
+	EndGlobalSection
+EndGlobal
